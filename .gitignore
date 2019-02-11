@@ -1,0 +1,5 @@
+./old/
+./new/
+./.idea/
+*.csv
+*.pyc
